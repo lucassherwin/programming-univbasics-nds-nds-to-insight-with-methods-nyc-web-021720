@@ -11,7 +11,7 @@ def gross_for_director(director_data)
     index += 1
   end
   total
-  
+
 
   #total = 0
   #  index = 0
